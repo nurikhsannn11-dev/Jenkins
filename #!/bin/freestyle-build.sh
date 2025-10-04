@@ -1,2 +1,0 @@
-npm --version
-mvn --version
